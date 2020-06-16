@@ -1,5 +1,5 @@
 # Kaggle-Titanic-Machine-Learning-from-Disaster
-Top 8% solution to the Kaggle [Titanic: Machine Learning from Disaster challenge](https://www.kaggle.com/c/titanic "Google's Homepage")
+Top 8% solution to the Kaggle [Titanic: Machine Learning from Disaster challenge](https://www.kaggle.com/c/titanic "Kaggle Titanic Challenge")
 
 
 ## Variable Description
